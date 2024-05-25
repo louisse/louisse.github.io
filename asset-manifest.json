@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.80811075.css",
-    "main.js": "/static/js/main.41b47a77.js",
+    "main.css": "/static/css/main.a114a068.css",
+    "main.js": "/static/js/main.82ce6363.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
     "static/media/Resume-Roger-Louisse-Eustaquio.pdf": "/static/media/Resume-Roger-Louisse-Eustaquio.e0cdfde25a97b8bb282f.pdf",
     "static/media/customer_service_for_people_with_disabilities.webp": "/static/media/customer_service_for_people_with_disabilities.7914618f67b6c627f483.webp",
@@ -9,12 +9,12 @@
     "static/media/web_accessibility_bootcamp_curriculum.webp": "/static/media/web_accessibility_bootcamp_curriculum.d3e9fb1557a017a13d1c.webp",
     "static/media/web_accessibility_curriculum.webp": "/static/media/web_accessibility_curriculum.ccb8dad25eac3e6f4576.webp",
     "index.html": "/index.html",
-    "main.80811075.css.map": "/static/css/main.80811075.css.map",
-    "main.41b47a77.js.map": "/static/js/main.41b47a77.js.map",
+    "main.a114a068.css.map": "/static/css/main.a114a068.css.map",
+    "main.82ce6363.js.map": "/static/js/main.82ce6363.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80811075.css",
-    "static/js/main.41b47a77.js"
+    "static/css/main.a114a068.css",
+    "static/js/main.82ce6363.js"
   ]
 }
