@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.49d14eee.css",
-    "main.js": "/static/js/main.8b902554.js",
+    "main.js": "/static/js/main.ec880f32.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
     "static/media/Full Stack Engineer - Eustaquio, Roger Louisse.pdf": "/static/media/Full Stack Engineer - Eustaquio, Roger Louisse.de7e9477f0b9ac35ef7b.pdf",
     "static/media/customer_service_for_people_with_disabilities.webp": "/static/media/customer_service_for_people_with_disabilities.7914618f67b6c627f483.webp",
@@ -10,11 +10,11 @@
     "static/media/web_accessibility_curriculum.webp": "/static/media/web_accessibility_curriculum.ccb8dad25eac3e6f4576.webp",
     "index.html": "/index.html",
     "main.49d14eee.css.map": "/static/css/main.49d14eee.css.map",
-    "main.8b902554.js.map": "/static/js/main.8b902554.js.map",
+    "main.ec880f32.js.map": "/static/js/main.ec880f32.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49d14eee.css",
-    "static/js/main.8b902554.js"
+    "static/js/main.ec880f32.js"
   ]
 }
